@@ -1,0 +1,716 @@
+L4 | Tue Dec 11 09:34:42 2018 (329 ms) | general | Server starting up
+L4 | Tue Dec 11 09:34:42 2018 (329 ms) | general | Server using version number 1
+L4 | Tue Dec 11 09:34:42 2018 (342 ms) | general | curseLog starting up
+L4 | Tue Dec 11 09:34:42 2018 (342 ms) | general | lifeLog starting up
+L4 | Tue Dec 11 09:34:45 2018 (382 ms) | general | foodLog starting up
+L4 | Tue Dec 11 09:34:45 2018 (383 ms) | general | failureLog starting up
+L4 | Tue Dec 11 09:34:45 2018 (399 ms) | general | skipLookTimeCleanup.ini flag set, not cleaning databases based on stale look times.
+L2 | Tue Dec 11 09:34:45 2018 (399 ms) | general | Error 1 opening look time KissDB
+L4 | Tue Dec 11 09:39:01 2018 (180 ms) | general | Server starting up
+L4 | Tue Dec 11 09:39:01 2018 (180 ms) | general | Server using version number 1
+L4 | Tue Dec 11 09:39:01 2018 (197 ms) | general | curseLog starting up
+L4 | Tue Dec 11 09:39:01 2018 (197 ms) | general | lifeLog starting up
+L4 | Tue Dec 11 09:39:03 2018 (782 ms) | general | foodLog starting up
+L4 | Tue Dec 11 09:39:03 2018 (783 ms) | general | failureLog starting up
+L4 | Tue Dec 11 09:39:03 2018 (798 ms) | general | skipLookTimeCleanup.ini flag set, not cleaning databases based on stale look times.
+L2 | Tue Dec 11 09:39:03 2018 (798 ms) | general | Error 1 opening look time KissDB
+L4 | Tue Dec 11 09:39:31 2018 (527 ms) | general | Server starting up
+L4 | Tue Dec 11 09:39:31 2018 (527 ms) | general | Server using version number 1
+L4 | Tue Dec 11 09:39:31 2018 (538 ms) | general | curseLog starting up
+L4 | Tue Dec 11 09:39:31 2018 (538 ms) | general | lifeLog starting up
+L4 | Tue Dec 11 09:39:34 2018 (152 ms) | general | foodLog starting up
+L4 | Tue Dec 11 09:39:34 2018 (153 ms) | general | failureLog starting up
+L4 | Tue Dec 11 09:39:34 2018 (167 ms) | general | skipLookTimeCleanup.ini flag set, not cleaning databases based on stale look times.
+L2 | Tue Dec 11 09:39:34 2018 (167 ms) | general | Error 1 opening look time KissDB
+L4 | Tue Dec 11 09:42:45 2018 (53 ms) | general | Server starting up
+L4 | Tue Dec 11 09:42:45 2018 (53 ms) | general | Server using version number 1
+L4 | Tue Dec 11 09:42:45 2018 (63 ms) | general | curseLog starting up
+L4 | Tue Dec 11 09:42:45 2018 (63 ms) | general | lifeLog starting up
+L4 | Tue Dec 11 09:42:47 2018 (588 ms) | general | foodLog starting up
+L4 | Tue Dec 11 09:42:47 2018 (589 ms) | general | failureLog starting up
+L4 | Tue Dec 11 09:42:47 2018 (609 ms) | general | skipLookTimeCleanup.ini flag set, not cleaning databases based on stale look times.
+L2 | Tue Dec 11 09:42:47 2018 (609 ms) | general | Error 1 opening look time KissDB
+L4 | Tue Dec 11 09:47:47 2018 (636 ms) | general | Server starting up
+L4 | Tue Dec 11 09:47:47 2018 (636 ms) | general | Server using version number 1
+L4 | Tue Dec 11 09:47:47 2018 (648 ms) | general | curseLog starting up
+L4 | Tue Dec 11 09:47:47 2018 (648 ms) | general | lifeLog starting up
+L4 | Tue Dec 11 09:47:50 2018 (346 ms) | general | foodLog starting up
+L4 | Tue Dec 11 09:47:50 2018 (348 ms) | general | failureLog starting up
+L4 | Tue Dec 11 09:47:50 2018 (362 ms) | general | skipLookTimeCleanup.ini flag set, not cleaning databases based on stale look times.
+L4 | Tue Dec 11 09:47:52 2018 (12 ms) | general | MetadataDB:  Found 0 records with max MetadataID of 0
+L4 | Tue Dec 11 09:47:52 2018 (13 ms) | general | Biome 0:  Found 17 natural objects with total weight 17.100000
+L4 | Tue Dec 11 09:47:52 2018 (13 ms) | general | Biome 3:  Found 16 natural objects with total weight 7.969999
+L4 | Tue Dec 11 09:47:52 2018 (13 ms) | general | Biome 4:  Found 10 natural objects with total weight 3.730000
+L4 | Tue Dec 11 09:47:52 2018 (13 ms) | general | Biome 5:  Found 13 natural objects with total weight 4.721000
+L4 | Tue Dec 11 09:47:52 2018 (13 ms) | general | Biome 2:  Found 13 natural objects with total weight 5.325000
+L4 | Tue Dec 11 09:47:52 2018 (13 ms) | general | Biome 1:  Found 7 natural objects with total weight 7.600000
+L4 | Tue Dec 11 09:47:52 2018 (13 ms) | general | Biome 6:  Found 5 natural objects with total weight 2.375000
+L4 | Tue Dec 11 09:47:52 2018 (13 ms) | general | 
+Cleaning map of objects that have been removed...
+L4 | Tue Dec 11 09:47:52 2018 (362 ms) | general | ...273758 map cells were set, and 0 needed to be cleared.
+L4 | Tue Dec 11 09:47:52 2018 (363 ms) | general | ...11081 contained objects present, and 0 needed to be cleared.
+L4 | Tue Dec 11 09:47:52 2018 (363 ms) | general | ...2347854 database records total (2 max hash bin depth).
+L4 | Tue Dec 11 09:47:52 2018 (363 ms) | general | Listening for connection on port 8007
+L4 | Tue Dec 11 10:17:12 2018 (160 ms) | general | Got connection from 203.165.250.34:54588
+L4 | Tue Dec 11 10:17:12 2018 (161 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:17:12 2018 (702 ms) | general | Failed to read from client socket, client rejected.
+L4 | Tue Dec 11 10:17:12 2018 (702 ms) | general | Closing new connection on error (cause: Socket read failed)
+L4 | Tue Dec 11 10:18:14 2018 (668 ms) | general | Got connection from 178.121.92.253:34523
+L4 | Tue Dec 11 10:18:14 2018 (668 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:18:15 2018 (304 ms) | general | Failed to read from client socket, client rejected.
+L4 | Tue Dec 11 10:18:15 2018 (304 ms) | general | Closing new connection on error (cause: Socket read failed)
+L4 | Tue Dec 11 10:18:52 2018 (301 ms) | general | Got connection from 203.165.250.34:54725
+L4 | Tue Dec 11 10:18:52 2018 (301 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:18:52 2018 (861 ms) | general | Failed to read from client socket, client rejected.
+L4 | Tue Dec 11 10:18:52 2018 (861 ms) | general | Closing new connection on error (cause: Socket read failed)
+L4 | Tue Dec 11 10:19:38 2018 (434 ms) | general | Got connection from 203.165.250.34:54786
+L4 | Tue Dec 11 10:19:38 2018 (434 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:19:39 2018 (221 ms) | general | Got new player logged in
+L4 | Tue Dec 11 10:19:39 2018 (222 ms) | general | Player is in nation -1 (null)
+
+L4 | Tue Dec 11 10:19:39 2018 (222 ms) | general | New player 252A577F05A24FBABCA1559E5A6A270B0EC62A95 connected as player 110991 (tutorial=0) (4000,-30)
+L4 | Tue Dec 11 10:19:39 2018 (223 ms) | general | Need to send updates about these 1 players: 110991, 
+L4 | Tue Dec 11 10:19:39 2018 (223 ms) | general | Sending updates about these 1 players: 110991, 
+L4 | Tue Dec 11 10:19:39 2018 (224 ms) | general | Sending lineage message: 110991 -1 -1
+
+L4 | Tue Dec 11 10:19:39 2018 (229 ms) | general | Sending first lineage message: 110991 -1 -1
+
+L4 | Tue Dec 11 10:19:39 2018 (229 ms) | general | 0/1 players were sent part of a 1-line PU: 
+L4 | Tue Dec 11 10:19:43 2018 (258 ms) | general | Player 110991 (252A577F05A24FBABCA1559E5A6A270B0EC62A95) marked as disconnected.
+L4 | Tue Dec 11 10:20:18 2018 (989 ms) | general | Got connection from 178.121.92.253:12935
+L4 | Tue Dec 11 10:20:18 2018 (989 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:20:19 2018 (851 ms) | general | Got new player logged in
+L4 | Tue Dec 11 10:20:19 2018 (851 ms) | general | Player is in nation -1 (null)
+
+L4 | Tue Dec 11 10:20:19 2018 (852 ms) | general | New player AB593A13F6FE6CED1EC2F8A185663B6171FBA853 connected as player 110992 (tutorial=0) (4000,-30)
+L4 | Tue Dec 11 10:20:19 2018 (852 ms) | general | Need to send updates about these 1 players: 110992, 
+L4 | Tue Dec 11 10:20:19 2018 (852 ms) | general | Sending updates about these 1 players: 110992, 
+L4 | Tue Dec 11 10:20:19 2018 (852 ms) | general | Sending lineage message: 110992 -1 110991
+
+L4 | Tue Dec 11 10:20:19 2018 (854 ms) | general | Sending first lineage message: 110992 -1 110991
+
+L4 | Tue Dec 11 10:20:19 2018 (854 ms) | general | Sending first lineage message: 110992 -1 110991
+
+L4 | Tue Dec 11 10:20:19 2018 (854 ms) | general | 0/2 players were sent part of a 1-line PU: 
+L4 | Tue Dec 11 10:20:22 2018 (322 ms) | general | Got connection from 203.165.250.34:54848
+L4 | Tue Dec 11 10:20:22 2018 (322 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:20:23 2018 (109 ms) | general | Got new player logged in
+L4 | Tue Dec 11 10:20:23 2018 (109 ms) | general | Player is in nation -1 (null)
+
+L4 | Tue Dec 11 10:20:23 2018 (110 ms) | general | New player 454F15AD84B339626B6347C217D696B25BEBB49B connected as player 110993 (tutorial=0) (4000,-30)
+L4 | Tue Dec 11 10:20:23 2018 (110 ms) | general | Need to send updates about these 1 players: 110993, 
+L4 | Tue Dec 11 10:20:23 2018 (110 ms) | general | Sending updates about these 1 players: 110993, 
+L4 | Tue Dec 11 10:20:23 2018 (110 ms) | general | Sending lineage message: 110993 -1 110991
+
+L4 | Tue Dec 11 10:20:23 2018 (112 ms) | general | Sending first lineage message: 110993 -1 110991
+
+L4 | Tue Dec 11 10:20:23 2018 (112 ms) | general | Sending first lineage message: 110993 -1 110991
+
+L4 | Tue Dec 11 10:20:23 2018 (112 ms) | general | Sending first lineage message: 110993 -1 110991
+
+L4 | Tue Dec 11 10:20:23 2018 (112 ms) | general | 1/3 players were sent part of a 1-line PU: 110992, 
+L4 | Tue Dec 11 10:20:23 2018 (303 ms) | general | Player 110992 (AB593A13F6FE6CED1EC2F8A185663B6171FBA853) marked as disconnected.
+L4 | Tue Dec 11 10:20:25 2018 (807 ms) | general | Player 110993 (454F15AD84B339626B6347C217D696B25BEBB49B) marked as disconnected.
+L4 | Tue Dec 11 10:21:26 2018 (241 ms) | general | Failed to read sequence number from stats server response.
+L4 | Tue Dec 11 10:21:27 2018 (243 ms) | general | Failed to read sequence number from lineage server response.
+L4 | Tue Dec 11 10:21:30 2018 (60 ms) | general | Closing connection to player 110991 on error (cause: Player starved)
+L4 | Tue Dec 11 10:21:30 2018 (60 ms) | general | 2 remaining player(s) alive on server 
+L4 | Tue Dec 11 10:21:36 2018 (253 ms) | general | Got connection from 203.165.250.34:54954
+L4 | Tue Dec 11 10:21:36 2018 (253 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:21:37 2018 (51 ms) | general | LOGIN message has wrong format, client rejected.
+L4 | Tue Dec 11 10:21:37 2018 (52 ms) | general | Closing new connection on error (cause: Bad login message)
+L4 | Tue Dec 11 10:22:03 2018 (354 ms) | general | Got connection from 203.165.250.34:54991
+L4 | Tue Dec 11 10:22:03 2018 (354 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:22:04 2018 (155 ms) | general | Got new player logged in
+L4 | Tue Dec 11 10:22:04 2018 (155 ms) | general | Player is in nation 0 AVALON
+
+L4 | Tue Dec 11 10:22:04 2018 (156 ms) | general | New player bman08237619@avalon.com connected as player 110994 (tutorial=0) (4000,-30)
+L4 | Tue Dec 11 10:22:04 2018 (156 ms) | general | Need to send updates about these 1 players: 110994, 
+L4 | Tue Dec 11 10:22:04 2018 (157 ms) | general | Sending updates about these 1 players: 110994, 
+L4 | Tue Dec 11 10:22:04 2018 (157 ms) | general | Sending lineage message: 110994 -1 -1
+
+L4 | Tue Dec 11 10:22:04 2018 (159 ms) | general | Sending first lineage message: 110994 -1 -1
+
+L4 | Tue Dec 11 10:22:04 2018 (159 ms) | general | Sending first lineage message: 110994 -1 -1
+
+L4 | Tue Dec 11 10:22:04 2018 (159 ms) | general | 0/3 players were sent part of a 1-line PU: 
+L4 | Tue Dec 11 10:22:06 2018 (324 ms) | general | Player 110994 (bman08237619@avalon.com) marked as disconnected.
+L4 | Tue Dec 11 10:22:06 2018 (325 ms) | general | Failed to read sequence number from stats server response.
+L4 | Tue Dec 11 10:22:06 2018 (325 ms) | general | Failed to read sequence number from lineage server response.
+L4 | Tue Dec 11 10:22:10 2018 (67 ms) | general | Closing connection to player 110992 on error (cause: Player starved)
+L4 | Tue Dec 11 10:22:10 2018 (67 ms) | general | 2 remaining player(s) alive on server 
+L4 | Tue Dec 11 10:22:10 2018 (68 ms) | general | Failed to read sequence number from stats server response.
+L4 | Tue Dec 11 10:22:13 2018 (72 ms) | general | Failed to read sequence number from lineage server response.
+L4 | Tue Dec 11 10:22:15 2018 (75 ms) | general | Closing connection to player 110993 on error (cause: Player starved)
+L4 | Tue Dec 11 10:22:15 2018 (75 ms) | general | 1 remaining player(s) alive on server 
+L4 | Tue Dec 11 10:23:55 2018 (117 ms) | general | Closing connection to player 110994 on error (cause: Player starved)
+L4 | Tue Dec 11 10:23:55 2018 (117 ms) | general | 0 remaining player(s) alive on server 
+L4 | Tue Dec 11 10:23:58 2018 (121 ms) | general | Server log_game request rejected by stats server
+L4 | Tue Dec 11 10:24:00 2018 (124 ms) | general | Server log_life request rejected by lineage server
+L4 | Tue Dec 11 10:25:33 2018 (479 ms) | general | Got connection from 178.121.92.253:64815
+L4 | Tue Dec 11 10:25:33 2018 (479 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:25:34 2018 (344 ms) | general | Got new player logged in
+L4 | Tue Dec 11 10:25:34 2018 (345 ms) | general | Player is in nation -1 (null)
+
+L4 | Tue Dec 11 10:25:34 2018 (345 ms) | general | New player 4F0B5EC1D8295AA493BD23E29DB6DFFAFFA5E118 connected as player 110995 (tutorial=0) (4000,-30)
+L4 | Tue Dec 11 10:25:34 2018 (345 ms) | general | Need to send updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:25:34 2018 (346 ms) | general | Sending updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:25:34 2018 (346 ms) | general | Sending lineage message: 110995 -1 -1
+
+L4 | Tue Dec 11 10:25:34 2018 (349 ms) | general | Sending first lineage message: 110995 -1 -1
+
+L4 | Tue Dec 11 10:25:34 2018 (349 ms) | general | 0/1 players were sent part of a 1-line PU: 
+L4 | Tue Dec 11 10:26:20 2018 (699 ms) | general | Got connection from 203.165.250.34:55346
+L4 | Tue Dec 11 10:26:20 2018 (699 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:26:21 2018 (287 ms) | general | Got new player logged in
+L4 | Tue Dec 11 10:26:21 2018 (288 ms) | general | Player is in nation -1 (null)
+
+L4 | Tue Dec 11 10:26:21 2018 (288 ms) | general | New player F0C7B68226217676C62351754282EABDBDDCCE73 connected as player 110996 (tutorial=0) (4000,-30)
+L4 | Tue Dec 11 10:26:21 2018 (288 ms) | general | Need to send updates about these 1 players: 110996, 
+L4 | Tue Dec 11 10:26:21 2018 (288 ms) | general | Sending updates about these 1 players: 110996, 
+L4 | Tue Dec 11 10:26:21 2018 (289 ms) | general | Sending lineage message: 110996 -1 110995
+
+L4 | Tue Dec 11 10:26:21 2018 (290 ms) | general | Sending first lineage message: 110996 -1 110995
+
+L4 | Tue Dec 11 10:26:21 2018 (290 ms) | general | Sending first lineage message: 110996 -1 110995
+
+L4 | Tue Dec 11 10:26:21 2018 (290 ms) | general | 1/2 players were sent part of a 1-line PU: 110995, 
+L4 | Tue Dec 11 10:26:23 2018 (383 ms) | general | Player 110996 (F0C7B68226217676C62351754282EABDBDDCCE73) marked as disconnected.
+L4 | Tue Dec 11 10:26:24 2018 (976 ms) | general | Got client message from 110995: MOVE 0 0 @2 1 -1
+L4 | Tue Dec 11 10:26:25 2018 (355 ms) | general | Need to send updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:26:25 2018 (355 ms) | general | Sending updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:26:25 2018 (355 ms) | general | 1/2 players were sent part of a 1-line PU: 110995, 
+L4 | Tue Dec 11 10:26:26 2018 (60 ms) | general | Got client message from 110995: MOVE 1 -1 @3 -1 0
+L4 | Tue Dec 11 10:26:26 2018 (327 ms) | general | Need to send updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:26:26 2018 (328 ms) | general | Sending updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:26:26 2018 (328 ms) | general | 1/2 players were sent part of a 1-line PU: 110995, 
+L4 | Tue Dec 11 10:26:29 2018 (592 ms) | general | Got client message from 110995: SAY 0 0 HI
+L4 | Tue Dec 11 10:26:31 2018 (759 ms) | general | Got client message from 110995: SAY 0 0 NO GOOD
+L4 | Tue Dec 11 10:26:37 2018 (792 ms) | general | Got client message from 110995: SAY 0 0 YOU SHOULD BE MAH BABY
+L4 | Tue Dec 11 10:26:41 2018 (392 ms) | general | Got client message from 110995: SAY 0 0 I'M EIGHT
+L4 | Tue Dec 11 10:26:45 2018 (109 ms) | general | Got client message from 110995: MOVE 0 -1 @4 1 0
+L4 | Tue Dec 11 10:26:45 2018 (376 ms) | general | Need to send updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:26:45 2018 (376 ms) | general | Sending updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:26:45 2018 (377 ms) | general | 1/2 players were sent part of a 1-line PU: 110995, 
+L4 | Tue Dec 11 10:26:46 2018 (175 ms) | general | Got client message from 110995: MOVE 1 -1 @5 1 1
+L4 | Tue Dec 11 10:26:46 2018 (554 ms) | general | Need to send updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:26:46 2018 (554 ms) | general | Sending updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:26:46 2018 (554 ms) | general | 1/2 players were sent part of a 1-line PU: 110995, 
+L4 | Tue Dec 11 10:26:47 2018 (559 ms) | general | Got client message from 110995: MOVE 2 0 @6 -1 1 -2 1 -3 1
+L4 | Tue Dec 11 10:26:48 2018 (471 ms) | general | Need to send updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:26:48 2018 (472 ms) | general | Sending updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:26:48 2018 (472 ms) | general | 1/2 players were sent part of a 1-line PU: 110995, 
+L4 | Tue Dec 11 10:26:56 2018 (975 ms) | general | Got client message from 110995: MOVE -1 1 @7 0 -1
+L4 | Tue Dec 11 10:26:57 2018 (243 ms) | general | Need to send updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:26:57 2018 (243 ms) | general | Sending updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:26:57 2018 (243 ms) | general | 1/2 players were sent part of a 1-line PU: 110995, 
+L4 | Tue Dec 11 10:26:59 2018 (809 ms) | general | Got client message from 110995: MOVE -1 0 @8 0 1 0 2
+L4 | Tue Dec 11 10:27:00 2018 (343 ms) | general | Need to send updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:27:00 2018 (343 ms) | general | Sending updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:27:00 2018 (344 ms) | general | 1/2 players were sent part of a 1-line PU: 110995, 
+L4 | Tue Dec 11 10:27:00 2018 (909 ms) | general | Got client message from 110995: MOVE -1 2 @9 1 0
+L4 | Tue Dec 11 10:27:01 2018 (176 ms) | general | Need to send updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:27:01 2018 (177 ms) | general | Sending updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:27:01 2018 (177 ms) | general | 1/2 players were sent part of a 1-line PU: 110995, 
+L4 | Tue Dec 11 10:27:01 2018 (458 ms) | general | Got client message from 110995: MOVE 0 2 @10 1 -1 2 -1
+L4 | Tue Dec 11 10:27:02 2018 (103 ms) | general | Need to send updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:27:02 2018 (104 ms) | general | Sending updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:27:02 2018 (104 ms) | general | 1/2 players were sent part of a 1-line PU: 110995, 
+L4 | Tue Dec 11 10:27:02 2018 (542 ms) | general | Got client message from 110995: MOVE 2 1 @11 1 -1
+L4 | Tue Dec 11 10:27:02 2018 (642 ms) | general | Got client message from 110995: MOVE 2 1 @12 1 -1 2 -1
+L4 | Tue Dec 11 10:27:03 2018 (286 ms) | general | Need to send updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:27:03 2018 (286 ms) | general | Sending updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:27:03 2018 (287 ms) | general | 1/2 players were sent part of a 1-line PU: 110995, 
+L4 | Tue Dec 11 10:27:03 2018 (609 ms) | general | Got client message from 110995: MOVE 4 0 @13 -1 -1
+L4 | Tue Dec 11 10:27:03 2018 (987 ms) | general | Need to send updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:27:03 2018 (988 ms) | general | Sending updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:27:03 2018 (988 ms) | general | 1/2 players were sent part of a 1-line PU: 110995, 
+L4 | Tue Dec 11 10:27:05 2018 (425 ms) | general | Got client message from 110995: MOVE 3 -1 @14 -1 0
+L4 | Tue Dec 11 10:27:05 2018 (475 ms) | general | Got client message from 110995: MOVE 3 -1 @15 -1 0 -2 0
+L4 | Tue Dec 11 10:27:06 2018 (10 ms) | general | Need to send updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:27:06 2018 (11 ms) | general | Sending updates about these 1 players: 110995, 
+L4 | Tue Dec 11 10:27:06 2018 (11 ms) | general | 1/2 players were sent part of a 1-line PU: 110995, 
+L4 | Tue Dec 11 10:27:22 2018 (649 ms) | general | Failed to read sequence number from stats server response.
+L4 | Tue Dec 11 10:27:22 2018 (649 ms) | general | Failed to read sequence number from lineage server response.
+L4 | Tue Dec 11 10:27:25 2018 (653 ms) | general | Closing connection to player 110995 on error (cause: Player starved)
+L4 | Tue Dec 11 10:27:25 2018 (653 ms) | general | 1 remaining player(s) alive on server 
+L4 | Tue Dec 11 10:27:36 2018 (154 ms) | general | Got connection from 178.121.92.253:33654
+L4 | Tue Dec 11 10:27:36 2018 (155 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:27:37 2018 (25 ms) | general | Got new player logged in
+L4 | Tue Dec 11 10:27:37 2018 (25 ms) | general | Player is in nation -1 (null)
+
+L4 | Tue Dec 11 10:27:37 2018 (26 ms) | general | New player FE26429CC45154F0F2D6D71F14927DB0D6A1CCCA connected as player 110997 (tutorial=0) (4000,-30)
+L4 | Tue Dec 11 10:27:37 2018 (26 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:27:37 2018 (26 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:27:37 2018 (26 ms) | general | Sending lineage message: 110997 -1 110996
+
+L4 | Tue Dec 11 10:27:37 2018 (29 ms) | general | Sending first lineage message: 110997 -1 110996
+
+L4 | Tue Dec 11 10:27:37 2018 (29 ms) | general | Sending first lineage message: 110997 -1 110996
+
+L4 | Tue Dec 11 10:27:37 2018 (29 ms) | general | 0/2 players were sent part of a 1-line PU: 
+L4 | Tue Dec 11 10:27:38 2018 (141 ms) | general | Got client message from 110997: MOVE 0 0 @2 0 -1
+L4 | Tue Dec 11 10:27:38 2018 (409 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:27:38 2018 (409 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:27:38 2018 (410 ms) | general | 1/2 players were sent part of a 1-line PU: 110997, 
+L4 | Tue Dec 11 10:27:38 2018 (875 ms) | general | Got client message from 110997: MOVE 0 -1 @3 1 0
+L4 | Tue Dec 11 10:27:39 2018 (142 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:27:39 2018 (142 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:27:39 2018 (142 ms) | general | 1/2 players were sent part of a 1-line PU: 110997, 
+L4 | Tue Dec 11 10:27:39 2018 (508 ms) | general | Got client message from 110997: MOVE 1 -1 @4 1 0
+L4 | Tue Dec 11 10:27:39 2018 (775 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:27:39 2018 (776 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:27:39 2018 (776 ms) | general | 1/2 players were sent part of a 1-line PU: 110997, 
+L4 | Tue Dec 11 10:27:40 2018 (508 ms) | general | Got client message from 110997: MOVE 2 -1 @5 -1 0
+L4 | Tue Dec 11 10:27:40 2018 (775 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:27:40 2018 (775 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:27:40 2018 (776 ms) | general | 1/2 players were sent part of a 1-line PU: 110997, 
+L4 | Tue Dec 11 10:28:09 2018 (41 ms) | general | Failed to read sequence number from stats server response.
+L4 | Tue Dec 11 10:28:10 2018 (524 ms) | general | Failed to read sequence number from lineage server response.
+L4 | Tue Dec 11 10:28:12 2018 (527 ms) | general | Closing connection to player 110996 on error (cause: Player starved)
+L4 | Tue Dec 11 10:28:12 2018 (527 ms) | general | 1 remaining player(s) alive on server 
+L4 | Tue Dec 11 10:28:22 2018 (840 ms) | general | Got client message from 110997: MOVE 1 -1 @6 1 0
+L4 | Tue Dec 11 10:28:23 2018 (107 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:28:23 2018 (107 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:28:23 2018 (107 ms) | general | 1/1 players were sent part of a 1-line PU: 110997, 
+L4 | Tue Dec 11 10:28:23 2018 (374 ms) | general | Got client message from 110997: MOVE 2 -1 @7 -1 0
+L4 | Tue Dec 11 10:28:23 2018 (641 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:28:23 2018 (641 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:28:23 2018 (641 ms) | general | 1/1 players were sent part of a 1-line PU: 110997, 
+L4 | Tue Dec 11 10:28:24 2018 (257 ms) | general | Got client message from 110997: MOVE 1 -1 @8 -1 1
+L4 | Tue Dec 11 10:28:24 2018 (635 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:28:24 2018 (635 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:28:24 2018 (635 ms) | general | 1/1 players were sent part of a 1-line PU: 110997, 
+L4 | Tue Dec 11 10:28:25 2018 (290 ms) | general | Got client message from 110997: MOVE 0 0 @9 -1 0
+L4 | Tue Dec 11 10:28:25 2018 (557 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:28:25 2018 (557 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:28:25 2018 (557 ms) | general | 1/1 players were sent part of a 1-line PU: 110997, 
+L4 | Tue Dec 11 10:29:03 2018 (489 ms) | general | Got client message from 110997: MOVE -1 0 @10 0 1 0 2
+L4 | Tue Dec 11 10:29:04 2018 (24 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:04 2018 (25 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:04 2018 (25 ms) | general | 1/1 players were sent part of a 1-line PU: 110997, 
+L4 | Tue Dec 11 10:29:04 2018 (406 ms) | general | Got client message from 110997: MOVE -1 2 @11 -1 1
+L4 | Tue Dec 11 10:29:04 2018 (784 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:04 2018 (784 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:04 2018 (784 ms) | general | 1/1 players were sent part of a 1-line PU: 110997, 
+L4 | Tue Dec 11 10:29:04 2018 (822 ms) | general | Got client message from 110997: MOVE -2 3 @12 0 1 0 2
+L4 | Tue Dec 11 10:29:04 2018 (927 ms) | general | Got connection from 203.165.250.34:55568
+L4 | Tue Dec 11 10:29:04 2018 (927 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:29:05 2018 (339 ms) | general | Got client message from 110997: MOVE -2 5 @13 1 1
+L4 | Tue Dec 11 10:29:05 2018 (650 ms) | general | Got new player logged in
+L4 | Tue Dec 11 10:29:05 2018 (651 ms) | general | Player is in nation -1 (null)
+
+L4 | Tue Dec 11 10:29:05 2018 (651 ms) | general | New player DD663D1AC0606C8F5837BF6CD42E95D15E496C27 connected as player 110998 (tutorial=0) (3999,-24)
+L4 | Tue Dec 11 10:29:05 2018 (651 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:05 2018 (651 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:05 2018 (651 ms) | general | Sending lineage message: 110998 -1 110997
+
+L4 | Tue Dec 11 10:29:05 2018 (654 ms) | general | Sending first lineage message: 110998 -1 110997
+
+L4 | Tue Dec 11 10:29:05 2018 (655 ms) | general | Sending first lineage message: 110998 -1 110997
+
+L4 | Tue Dec 11 10:29:05 2018 (655 ms) | general | 1/2 players were sent part of a 1-line PU: 110997, 
+L4 | Tue Dec 11 10:29:05 2018 (717 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:05 2018 (717 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:05 2018 (717 ms) | general | 2/2 players were sent part of a 1-line PU: 110997, 110998, 
+L4 | Tue Dec 11 10:29:05 2018 (892 ms) | general | Got client message from 110997: USE -1 7
+L4 | Tue Dec 11 10:29:05 2018 (892 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:05 2018 (892 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:05 2018 (893 ms) | general | 2/2 players were sent part of a 1-line PU: 110997, 110998, 
+L4 | Tue Dec 11 10:29:06 2018 (789 ms) | general | Got client message from 110997: MOVE -1 6 @14 -1 0
+L4 | Tue Dec 11 10:29:07 2018 (57 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:07 2018 (57 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:07 2018 (57 ms) | general | 2/2 players were sent part of a 1-line PU: 110997, 110998, 
+L4 | Tue Dec 11 10:29:07 2018 (805 ms) | general | Got client message from 110997: DROP -2 6 -1
+L4 | Tue Dec 11 10:29:07 2018 (806 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:07 2018 (806 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:07 2018 (806 ms) | general | 2/2 players were sent part of a 1-line PU: 110997, 110998, 
+L4 | Tue Dec 11 10:29:09 2018 (369 ms) | general | Got client message from 110998: MOVE 0 0 @2 -1 0
+L4 | Tue Dec 11 10:29:09 2018 (636 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:09 2018 (636 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:09 2018 (636 ms) | general | 2/2 players were sent part of a 1-line PU: 110997, 110998, 
+L4 | Tue Dec 11 10:29:09 2018 (700 ms) | general | Got client message from 110998: MOVE -1 0 @3 0 -1
+L4 | Tue Dec 11 10:29:09 2018 (967 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:09 2018 (968 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:09 2018 (968 ms) | general | 2/2 players were sent part of a 1-line PU: 110997, 110998, 
+L4 | Tue Dec 11 10:29:12 2018 (172 ms) | general | Got client message from 110997: SAY 0 0 EVEN MORE INTERESTING
+L4 | Tue Dec 11 10:29:15 2018 (355 ms) | general | Got client message from 110997: SAY 0 0 EVE SPAWNS TO EVE
+L4 | Tue Dec 11 10:29:18 2018 (629 ms) | general | Got client message from 110998: SAY 0 0 HELOOO
+L4 | Tue Dec 11 10:29:18 2018 (772 ms) | general | Got client message from 110997: MOVE -2 6 @15 -1 -1
+L4 | Tue Dec 11 10:29:19 2018 (150 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:19 2018 (150 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:19 2018 (151 ms) | general | 2/2 players were sent part of a 1-line PU: 110997, 110998, 
+L4 | Tue Dec 11 10:29:19 2018 (823 ms) | general | Got client message from 110997: MOVE -3 5 @16 1 -1
+L4 | Tue Dec 11 10:29:20 2018 (201 ms) | general | Need to send updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:20 2018 (202 ms) | general | Sending updates about these 1 players: 110997, 
+L4 | Tue Dec 11 10:29:20 2018 (202 ms) | general | 2/2 players were sent part of a 1-line PU: 110997, 110998, 
+L4 | Tue Dec 11 10:29:23 2018 (497 ms) | general | Got client message from 110998: SAY 0 0 UH NO ZOOM
+L4 | Tue Dec 11 10:29:24 2018 (501 ms) | general | Failed to read sequence number from stats server response.
+L4 | Tue Dec 11 10:29:24 2018 (646 ms) | general | Got client message from 110998: MOVE -1 -1 @4 -1 -1 -2 -1
+L4 | Tue Dec 11 10:29:24 2018 (647 ms) | general | Player 110997 (email_cleared) marked as disconnected.
+L4 | Tue Dec 11 10:29:24 2018 (647 ms) | general | Failed to read sequence number from lineage server response.
+L4 | Tue Dec 11 10:29:25 2018 (13 ms) | general | Got client message from 110998: MOVE -2 -2 @5 0 -1
+L4 | Tue Dec 11 10:29:25 2018 (108 ms) | general | Got client message from 110998: MOVE -2 -2 @6 -1 -1
+L4 | Tue Dec 11 10:29:25 2018 (132 ms) | general | Got client message from 110998: MOVE -2 -2 @7 -1 -1 -1 -2
+L4 | Tue Dec 11 10:29:25 2018 (170 ms) | general | Got connection from 178.121.92.253:8709
+L4 | Tue Dec 11 10:29:25 2018 (170 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:29:25 2018 (447 ms) | general | Got client message from 110998: MOVE -3 -3 @8 0 -1 0 -2 0 -3 0 -4
+L4 | Tue Dec 11 10:29:25 2018 (513 ms) | general | Got client message from 110998: MOVE -3 -3 @9 0 -1
+L4 | Tue Dec 11 10:29:25 2018 (781 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:25 2018 (781 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:25 2018 (781 ms) | general | 1/2 players were sent part of a 1-line PU: 110998, 
+L4 | Tue Dec 11 10:29:26 2018 (41 ms) | general | Got new player logged in
+L4 | Tue Dec 11 10:29:26 2018 (41 ms) | general | Player is in nation -1 (null)
+
+L4 | Tue Dec 11 10:29:26 2018 (42 ms) | general | New player D496240906D7DFB854BDC9D627A8F14F6882062E connected as player 110999 (tutorial=0) (3996,-28)
+L4 | Tue Dec 11 10:29:26 2018 (42 ms) | general | Need to send updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:26 2018 (42 ms) | general | Sending updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:26 2018 (42 ms) | general | Sending lineage message: 110999 -1 110998
+
+L4 | Tue Dec 11 10:29:26 2018 (45 ms) | general | Sending first lineage message: 110999 -1 110998
+
+L4 | Tue Dec 11 10:29:26 2018 (45 ms) | general | Sending first lineage message: 110999 -1 110998
+
+L4 | Tue Dec 11 10:29:26 2018 (45 ms) | general | 1/3 players were sent part of a 1-line PU: 110998, 
+L4 | Tue Dec 11 10:29:27 2018 (190 ms) | general | Got client message from 110999: MOVE 0 0 @2 -1 0
+L4 | Tue Dec 11 10:29:27 2018 (457 ms) | general | Need to send updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:27 2018 (457 ms) | general | Sending updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:27 2018 (458 ms) | general | 2/3 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:29 2018 (342 ms) | general | Got client message from 110998: MOVE -3 -4 @10 1 1
+L4 | Tue Dec 11 10:29:29 2018 (343 ms) | general | Closing connection to player 110997 on error (cause: Player starved)
+L4 | Tue Dec 11 10:29:29 2018 (343 ms) | general | 2 remaining player(s) alive on server 
+L4 | Tue Dec 11 10:29:29 2018 (721 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:29 2018 (721 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:29 2018 (722 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:30 2018 (839 ms) | general | Got client message from 110999: SAY 0 0 HELLO AGAIN
+L4 | Tue Dec 11 10:29:31 2018 (939 ms) | general | Got client message from 110999: MOVE -1 0 @3 1 1
+L4 | Tue Dec 11 10:29:32 2018 (306 ms) | general | Got client message from 110999: MOVE 0 1 @4 1 1 1 2
+L4 | Tue Dec 11 10:29:32 2018 (606 ms) | general | Got client message from 110999: MOVE 1 2 @5 1 1
+L4 | Tue Dec 11 10:29:32 2018 (639 ms) | general | Got client message from 110999: MOVE 1 2 @6 1 1 1 2
+L4 | Tue Dec 11 10:29:33 2018 (284 ms) | general | Need to send updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:33 2018 (285 ms) | general | Sending updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:33 2018 (285 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:33 2018 (840 ms) | general | Got client message from 110999: MOVE 2 4 @7 0 -1
+L4 | Tue Dec 11 10:29:34 2018 (107 ms) | general | Need to send updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:34 2018 (107 ms) | general | Sending updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:34 2018 (108 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:34 2018 (173 ms) | general | Got client message from 110999: MOVE 2 3 @8 0 -1
+L4 | Tue Dec 11 10:29:34 2018 (440 ms) | general | Need to send updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:34 2018 (440 ms) | general | Sending updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:34 2018 (440 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:34 2018 (706 ms) | general | Got client message from 110999: MOVE 2 2 @9 1 -1
+L4 | Tue Dec 11 10:29:34 2018 (808 ms) | general | Got client message from 110998: MOVE -2 -3 @11 -1 0
+L4 | Tue Dec 11 10:29:35 2018 (75 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:35 2018 (76 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:35 2018 (76 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:35 2018 (84 ms) | general | Need to send updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:35 2018 (84 ms) | general | Sending updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:35 2018 (84 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:35 2018 (356 ms) | general | Got client message from 110999: MOVE 3 1 @10 -1 0
+L4 | Tue Dec 11 10:29:35 2018 (493 ms) | general | Got client message from 110998: MOVE -3 -3 @12 1 0 2 0
+L4 | Tue Dec 11 10:29:35 2018 (623 ms) | general | Need to send updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:35 2018 (623 ms) | general | Sending updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:35 2018 (624 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:36 2018 (27 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:36 2018 (28 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:36 2018 (28 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:36 2018 (64 ms) | general | Got client message from 110998: MOVE -1 -3 @13 0 -1
+L4 | Tue Dec 11 10:29:36 2018 (94 ms) | general | Got client message from 110998: MOVE -1 -3 @14 1 -1
+L4 | Tue Dec 11 10:29:36 2018 (472 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:36 2018 (473 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:36 2018 (473 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:36 2018 (589 ms) | general | Got client message from 110998: MOVE 0 -4 @15 -1 0
+L4 | Tue Dec 11 10:29:36 2018 (856 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:36 2018 (856 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:36 2018 (856 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:37 2018 (409 ms) | general | Got client message from 110998: USE -2 -4
+L4 | Tue Dec 11 10:29:37 2018 (410 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:37 2018 (410 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:37 2018 (411 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:38 2018 (139 ms) | general | Got client message from 110998: DROP -2 -4 -1
+L4 | Tue Dec 11 10:29:38 2018 (140 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:38 2018 (140 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:38 2018 (140 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:38 2018 (590 ms) | general | Got client message from 110999: MOVE 2 1 @11 1 -1
+L4 | Tue Dec 11 10:29:38 2018 (724 ms) | general | Got client message from 110998: DROP -1 -4 -1
+L4 | Tue Dec 11 10:29:38 2018 (724 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:38 2018 (724 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:38 2018 (725 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:38 2018 (968 ms) | general | Need to send updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:38 2018 (969 ms) | general | Sending updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:29:38 2018 (969 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:39 2018 (272 ms) | general | Got client message from 110998: MOVE -1 -4 @16 -1 1
+L4 | Tue Dec 11 10:29:39 2018 (650 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:39 2018 (650 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:39 2018 (650 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:40 2018 (314 ms) | general | Got client message from 110998: MOVE -2 -3 @17 1 1 1 2
+L4 | Tue Dec 11 10:29:40 2018 (675 ms) | general | Got client message from 110998: MOVE -1 -2 @18 0 1 0 2
+L4 | Tue Dec 11 10:29:40 2018 (942 ms) | general | Got client message from 110998: MOVE -1 -1 @19 0 1 0 2 0 3 0 4
+L4 | Tue Dec 11 10:29:41 2018 (126 ms) | general | Got client message from 110998: MOVE -1 -1 @20 0 1
+L4 | Tue Dec 11 10:29:41 2018 (394 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:41 2018 (394 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:41 2018 (394 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:42 2018 (994 ms) | general | Got client message from 110998: MOVE -1 0 @21 0 -1
+L4 | Tue Dec 11 10:29:43 2018 (262 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:43 2018 (263 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:43 2018 (263 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:45 2018 (92 ms) | general | Got client message from 110998: MOVE -1 -1 @22 -1 -1 -1 -2
+L4 | Tue Dec 11 10:29:45 2018 (736 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:45 2018 (736 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:45 2018 (737 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:46 2018 (125 ms) | general | Got client message from 110998: MOVE -2 -3 @23 -1 -1
+L4 | Tue Dec 11 10:29:46 2018 (138 ms) | general | Got client message from 110998: MOVE -2 -3 @24 -1 -1 -1 -2
+L4 | Tue Dec 11 10:29:46 2018 (486 ms) | general | Got client message from 110998: MOVE -3 -4 @25 -1 -1
+L4 | Tue Dec 11 10:29:46 2018 (571 ms) | general | Got client message from 110998: MOVE -3 -4 @26 -1 -1 -2 -1
+L4 | Tue Dec 11 10:29:46 2018 (886 ms) | general | Got client message from 110998: MOVE -4 -5 @27 0 -1 -1 -2 -1 -3 -1 -4
+L4 | Tue Dec 11 10:29:47 2018 (420 ms) | general | Got client message from 110998: MOVE -4 -6 @28 -1 -1
+L4 | Tue Dec 11 10:29:47 2018 (421 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:47 2018 (421 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:47 2018 (422 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:47 2018 (674 ms) | general | Got client message from 110998: MOVE -5 -7 @29 1 1 1 2
+L4 | Tue Dec 11 10:29:48 2018 (38 ms) | general | Got client message from 110998: MOVE -4 -6 @30 1 1
+L4 | Tue Dec 11 10:29:48 2018 (141 ms) | general | Got client message from 110998: MOVE -4 -6 @31 1 1 2 1
+L4 | Tue Dec 11 10:29:48 2018 (399 ms) | general | Got client message from 110998: MOVE -3 -6 @32 0 1
+L4 | Tue Dec 11 10:29:48 2018 (399 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:48 2018 (399 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:48 2018 (400 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:29:56 2018 (696 ms) | general | Got client message from 110998: MOVE -3 -5 @33 1 1 1 2
+L4 | Tue Dec 11 10:29:57 2018 (52 ms) | general | Got client message from 110998: MOVE -2 -4 @34 1 1 1 2
+L4 | Tue Dec 11 10:29:57 2018 (220 ms) | general | Got client message from 110998: MOVE -2 -4 @35 1 1
+L4 | Tue Dec 11 10:29:57 2018 (598 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:57 2018 (599 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:29:57 2018 (599 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:05 2018 (689 ms) | general | Got client message from 110999: MOVE 3 0 @12 1 0
+L4 | Tue Dec 11 10:30:05 2018 (956 ms) | general | Need to send updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:30:05 2018 (956 ms) | general | Sending updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:30:05 2018 (956 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:06 2018 (339 ms) | general | Got client message from 110999: MOVE 4 0 @13 -1 0
+L4 | Tue Dec 11 10:30:06 2018 (606 ms) | general | Need to send updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:30:06 2018 (606 ms) | general | Sending updates about these 1 players: 110999, 
+L4 | Tue Dec 11 10:30:06 2018 (606 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:07 2018 (470 ms) | general | Got client message from 110998: MOVE -1 -3 @36 -1 0
+L4 | Tue Dec 11 10:30:07 2018 (737 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:07 2018 (737 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:07 2018 (737 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:11 2018 (433 ms) | general | Got client message from 110998: MOVE -2 -3 @37 0 -1
+L4 | Tue Dec 11 10:30:11 2018 (700 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:11 2018 (700 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:11 2018 (700 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:12 2018 (469 ms) | general | Got client message from 110998: MOVE -2 -4 @38 0 -1
+L4 | Tue Dec 11 10:30:12 2018 (736 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:12 2018 (736 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:12 2018 (737 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:13 2018 (282 ms) | general | Got client message from 110998: MOVE -2 -5 @39 1 -1 2 -2 3 -2
+L4 | Tue Dec 11 10:30:14 2018 (32 ms) | general | Got client message from 110998: MOVE 0 -7 @40 1 -1 2 -1 3 -2
+L4 | Tue Dec 11 10:30:14 2018 (131 ms) | general | Got client message from 110998: MOVE 0 -7 @41 1 -1
+L4 | Tue Dec 11 10:30:14 2018 (509 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:14 2018 (510 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:14 2018 (510 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:14 2018 (564 ms) | general | Got client message from 110998: MOVE 1 -8 @42 -1 0
+L4 | Tue Dec 11 10:30:14 2018 (831 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:14 2018 (831 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:14 2018 (832 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:15 2018 (68 ms) | general | Got client message from 110998: USE -1 -8
+L4 | Tue Dec 11 10:30:15 2018 (69 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:15 2018 (69 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:15 2018 (69 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:15 2018 (547 ms) | general | Got client message from 110998: MOVE 0 -8 @43 -1 1 -2 2
+L4 | Tue Dec 11 10:30:15 2018 (936 ms) | general | Got client message from 110998: MOVE -1 -7 @44 -1 1 -1 2
+L4 | Tue Dec 11 10:30:16 2018 (202 ms) | general | Got client message from 110998: MOVE -2 -7 @45 0 1
+L4 | Tue Dec 11 10:30:16 2018 (202 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:16 2018 (202 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:16 2018 (203 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:16 2018 (600 ms) | general | Got client message from 110998: DROP -2 -5 -1
+L4 | Tue Dec 11 10:30:16 2018 (601 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:16 2018 (601 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:16 2018 (602 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:17 2018 (231 ms) | general | Got client message from 110998: MOVE -2 -6 @46 0 1
+L4 | Tue Dec 11 10:30:17 2018 (499 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:17 2018 (500 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:17 2018 (500 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:17 2018 (736 ms) | general | Got client message from 110998: DROP -1 -5 -1
+L4 | Tue Dec 11 10:30:17 2018 (737 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:17 2018 (737 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:17 2018 (737 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:18 2018 (980 ms) | general | Got client message from 110998: MOVE -2 -5 @47 1 1
+L4 | Tue Dec 11 10:30:19 2018 (358 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:19 2018 (358 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:19 2018 (359 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:19 2018 (578 ms) | general | Got client message from 110998: USE -1 -3
+L4 | Tue Dec 11 10:30:19 2018 (578 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:19 2018 (579 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:19 2018 (579 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:20 2018 (117 ms) | general | Got client message from 110998: MOVE -1 -4 @48 -1 0
+L4 | Tue Dec 11 10:30:20 2018 (384 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:20 2018 (384 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:20 2018 (385 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:20 2018 (620 ms) | general | Got client message from 110998: USE -3 -4
+L4 | Tue Dec 11 10:30:20 2018 (620 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:20 2018 (621 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:20 2018 (621 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:21 2018 (100 ms) | general | Got client message from 110998: MOVE -2 -4 @49 1 -1
+L4 | Tue Dec 11 10:30:21 2018 (479 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:21 2018 (480 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:21 2018 (480 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:32 2018 (213 ms) | general | Got client message from 110998: USE -1 -5
+L4 | Tue Dec 11 10:30:32 2018 (213 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:32 2018 (214 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:32 2018 (214 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:32 2018 (858 ms) | general | Got client message from 110998: MOVE -1 -5 @50 -1 1
+L4 | Tue Dec 11 10:30:33 2018 (236 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:33 2018 (236 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:33 2018 (237 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:33 2018 (663 ms) | general | Got client message from 110998: MOVE -2 -4 @51 0 1
+L4 | Tue Dec 11 10:30:33 2018 (930 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:33 2018 (931 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:33 2018 (931 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:34 2018 (162 ms) | general | Got client message from 110998: DROP -1 -3 -1
+L4 | Tue Dec 11 10:30:34 2018 (162 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:34 2018 (162 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:34 2018 (163 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:34 2018 (624 ms) | general | Got client message from 110998: MOVE -2 -3 @52 1 0 2 0
+L4 | Tue Dec 11 10:30:35 2018 (159 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:35 2018 (159 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:35 2018 (159 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:35 2018 (394 ms) | general | Got client message from 110998: USE 1 -3
+L4 | Tue Dec 11 10:30:35 2018 (395 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:35 2018 (395 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:35 2018 (396 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:35 2018 (705 ms) | general | Got client message from 110999: SAY 0 0 DON'T MOVE PLEASE
+L4 | Tue Dec 11 10:30:35 2018 (812 ms) | general | Got client message from 110998: MOVE 0 -3 @53 -1 0
+L4 | Tue Dec 11 10:30:36 2018 (79 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:36 2018 (80 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:36 2018 (80 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:36 2018 (308 ms) | general | Got client message from 110998: DROP -2 -3 -1
+L4 | Tue Dec 11 10:30:36 2018 (309 ms) | general | Need to send updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:36 2018 (309 ms) | general | Sending updates about these 1 players: 110998, 
+L4 | Tue Dec 11 10:30:36 2018 (310 ms) | general | 2/2 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:39 2018 (576 ms) | general | Got client message from 110998: SAY 0 0 K
+L4 | Tue Dec 11 10:30:44 2018 (438 ms) | general | Got client message from 110999: SAY 0 0 WE'RE LISTENING TO THE WIND
+L4 | Tue Dec 11 10:30:48 2018 (121 ms) | general | Got client message from 110999: SAY 0 0 I MEAN TO THE LOG
+L4 | Tue Dec 11 10:30:49 2018 (241 ms) | general | Got client message from 110998: SAY 0 0 O
+L4 | Tue Dec 11 10:30:52 2018 (714 ms) | general | Failed to read sequence number from stats server response.
+L4 | Tue Dec 11 10:30:53 2018 (92 ms) | general | Got connection from 203.165.250.34:55719
+L4 | Tue Dec 11 10:30:53 2018 (93 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:30:53 2018 (93 ms) | general | Failed to read sequence number from lineage server response.
+L4 | Tue Dec 11 10:30:53 2018 (841 ms) | general | Got new player logged in
+L4 | Tue Dec 11 10:30:53 2018 (841 ms) | general | Player is in nation -1 (null)
+
+L4 | Tue Dec 11 10:30:53 2018 (842 ms) | general | New player 92E6191EF20A1ABCDD8729BB1BD2FE8DED445B4D connected as player 111000 (tutorial=0) (3999,-28)
+L4 | Tue Dec 11 10:30:53 2018 (842 ms) | general | Need to send updates about these 1 players: 111000, 
+L4 | Tue Dec 11 10:30:53 2018 (842 ms) | general | Sending updates about these 1 players: 111000, 
+L4 | Tue Dec 11 10:30:53 2018 (842 ms) | general | Sending lineage message: 111000 -1 110999
+
+L4 | Tue Dec 11 10:30:53 2018 (845 ms) | general | Sending first lineage message: 111000 -1 110999
+
+L4 | Tue Dec 11 10:30:53 2018 (845 ms) | general | Sending first lineage message: 111000 -1 110999
+
+L4 | Tue Dec 11 10:30:53 2018 (845 ms) | general | 2/3 players were sent part of a 1-line PU: 110998, 110999, 
+L4 | Tue Dec 11 10:30:55 2018 (532 ms) | general | Player 110998 (email_cleared) marked as disconnected.
+L4 | Tue Dec 11 10:30:55 2018 (807 ms) | general | Got client message from 111000: MOVE 0 0 @2 1 0
+L4 | Tue Dec 11 10:30:55 2018 (807 ms) | general | Closing connection to player 110998 on error (cause: Player starved)
+L4 | Tue Dec 11 10:30:55 2018 (807 ms) | general | 2 remaining player(s) alive on server 
+L4 | Tue Dec 11 10:30:56 2018 (74 ms) | general | Need to send updates about these 1 players: 111000, 
+L4 | Tue Dec 11 10:30:56 2018 (74 ms) | general | Sending updates about these 1 players: 111000, 
+L4 | Tue Dec 11 10:30:56 2018 (74 ms) | general | 2/2 players were sent part of a 1-line PU: 110999, 111000, 
+L4 | Tue Dec 11 10:31:12 2018 (500 ms) | general | Got connection from 178.121.92.253:3730
+L4 | Tue Dec 11 10:31:12 2018 (500 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:31:13 2018 (370 ms) | general | Got new player logged in
+L4 | Tue Dec 11 10:31:13 2018 (371 ms) | general | Player is in nation -1 (null)
+
+L4 | Tue Dec 11 10:31:13 2018 (371 ms) | general | New player FBDA5883F941335321024054FFFC4FEC26E5B26E connected as player 111001 (tutorial=0) (4000,-28)
+L4 | Tue Dec 11 10:31:13 2018 (371 ms) | general | Need to send updates about these 1 players: 111001, 
+L4 | Tue Dec 11 10:31:13 2018 (372 ms) | general | Sending updates about these 1 players: 111001, 
+L4 | Tue Dec 11 10:31:13 2018 (372 ms) | general | Sending lineage message: 111001 -1 111000
+
+L4 | Tue Dec 11 10:31:13 2018 (374 ms) | general | Sending first lineage message: 111001 -1 111000
+
+L4 | Tue Dec 11 10:31:13 2018 (374 ms) | general | Sending first lineage message: 111001 -1 111000
+
+L4 | Tue Dec 11 10:31:13 2018 (374 ms) | general | 2/3 players were sent part of a 1-line PU: 110999, 111000, 
+L4 | Tue Dec 11 10:31:13 2018 (374 ms) | general | Failed to read sequence number from stats server response.
+L4 | Tue Dec 11 10:31:13 2018 (374 ms) | general | Failed to read sequence number from lineage server response.
+L4 | Tue Dec 11 10:31:14 2018 (376 ms) | general | Player 110999 (email_cleared) marked as disconnected.
+L4 | Tue Dec 11 10:31:15 2018 (845 ms) | general | Closing connection to player 110999 on error (cause: Player starved)
+L4 | Tue Dec 11 10:31:15 2018 (845 ms) | general | 2 remaining player(s) alive on server 
+L4 | Tue Dec 11 10:31:23 2018 (754 ms) | general | Player 111001 (FBDA5883F941335321024054FFFC4FEC26E5B26E) marked as disconnected.
+L4 | Tue Dec 11 10:31:37 2018 (271 ms) | general | Got connection from 203.165.250.34:55778
+L4 | Tue Dec 11 10:31:37 2018 (271 ms) | general | Listening for another connection on port 8007
+L4 | Tue Dec 11 10:31:38 2018 (64 ms) | general | Got new player logged in
+L4 | Tue Dec 11 10:31:38 2018 (64 ms) | general | Player is in nation -1 (null)
+
+L4 | Tue Dec 11 10:31:38 2018 (65 ms) | general | New player 473790685D2E3F73AE7342A31CB45800326AE9B6 connected as player 111002 (tutorial=0) (4000,-28)
+L4 | Tue Dec 11 10:31:38 2018 (65 ms) | general | Need to send updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:31:38 2018 (65 ms) | general | Sending updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:31:38 2018 (65 ms) | general | Sending lineage message: 111002 -1 111000
+
+L4 | Tue Dec 11 10:31:38 2018 (68 ms) | general | Sending first lineage message: 111002 -1 111000
+
+L4 | Tue Dec 11 10:31:38 2018 (68 ms) | general | Sending first lineage message: 111002 -1 111000
+
+L4 | Tue Dec 11 10:31:38 2018 (68 ms) | general | Sending first lineage message: 111002 -1 111000
+
+L4 | Tue Dec 11 10:31:38 2018 (68 ms) | general | 1/3 players were sent part of a 1-line PU: 111000, 
+L4 | Tue Dec 11 10:31:39 2018 (615 ms) | general | Got client message from 111002: MOVE 0 0 @2 -1 1
+L4 | Tue Dec 11 10:31:39 2018 (993 ms) | general | Need to send updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:31:39 2018 (993 ms) | general | Sending updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:31:39 2018 (994 ms) | general | 2/3 players were sent part of a 1-line PU: 111000, 111002, 
+L4 | Tue Dec 11 10:31:45 2018 (541 ms) | general | Got client message from 111000: MOVE 1 0 @3 -1 0
+L4 | Tue Dec 11 10:31:45 2018 (808 ms) | general | Need to send updates about these 1 players: 111000, 
+L4 | Tue Dec 11 10:31:45 2018 (808 ms) | general | Sending updates about these 1 players: 111000, 
+L4 | Tue Dec 11 10:31:45 2018 (808 ms) | general | 2/3 players were sent part of a 1-line PU: 111000, 111002, 
+L4 | Tue Dec 11 10:31:46 2018 (427 ms) | general | Got client message from 111000: MOVE 0 0 @4 -1 0
+L4 | Tue Dec 11 10:31:46 2018 (695 ms) | general | Need to send updates about these 1 players: 111000, 
+L4 | Tue Dec 11 10:31:46 2018 (695 ms) | general | Sending updates about these 1 players: 111000, 
+L4 | Tue Dec 11 10:31:46 2018 (696 ms) | general | 2/3 players were sent part of a 1-line PU: 111000, 111002, 
+L4 | Tue Dec 11 10:31:56 2018 (291 ms) | general | Got client message from 111000: MOVE -1 0 @5 -1 0
+L4 | Tue Dec 11 10:31:56 2018 (558 ms) | general | Need to send updates about these 1 players: 111000, 
+L4 | Tue Dec 11 10:31:56 2018 (558 ms) | general | Sending updates about these 1 players: 111000, 
+L4 | Tue Dec 11 10:31:56 2018 (558 ms) | general | 2/3 players were sent part of a 1-line PU: 111000, 111002, 
+L4 | Tue Dec 11 10:32:06 2018 (984 ms) | general | Player 111000 (92E6191EF20A1ABCDD8729BB1BD2FE8DED445B4D) marked as disconnected.
+L4 | Tue Dec 11 10:32:09 2018 (254 ms) | general | Got client message from 111002: MOVE -1 1 @3 -1 -1
+L4 | Tue Dec 11 10:32:09 2018 (633 ms) | general | Need to send updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:32:09 2018 (633 ms) | general | Sending updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:32:09 2018 (634 ms) | general | 1/3 players were sent part of a 1-line PU: 111002, 
+L4 | Tue Dec 11 10:32:11 2018 (555 ms) | general | Got client message from 111002: MOVE -2 0 @4 -1 -1 -1 -2 -1 -3
+L4 | Tue Dec 11 10:32:12 2018 (276 ms) | general | Got client message from 111002: MOVE -3 -2 @5 1 1
+L4 | Tue Dec 11 10:32:12 2018 (654 ms) | general | Need to send updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:32:12 2018 (654 ms) | general | Sending updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:32:12 2018 (654 ms) | general | 1/3 players were sent part of a 1-line PU: 111002, 
+L4 | Tue Dec 11 10:32:20 2018 (530 ms) | general | Got client message from 111002: MOVE -2 -1 @6 0 1
+L4 | Tue Dec 11 10:32:20 2018 (657 ms) | general | Got client message from 111002: MOVE -2 -1 @7 0 1 0 2
+L4 | Tue Dec 11 10:32:21 2018 (191 ms) | general | Need to send updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:32:21 2018 (192 ms) | general | Sending updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:32:21 2018 (192 ms) | general | 1/3 players were sent part of a 1-line PU: 111002, 
+L4 | Tue Dec 11 10:32:23 2018 (602 ms) | general | Got client message from 111002: SELF -2 1 -1
+L4 | Tue Dec 11 10:32:23 2018 (603 ms) | general | Need to send updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:32:23 2018 (603 ms) | general | Sending updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:32:23 2018 (603 ms) | general | 1/3 players were sent part of a 1-line PU: 111002, 
+L4 | Tue Dec 11 10:32:24 2018 (785 ms) | general | Got client message from 111002: REMV -2 1 -1
+L4 | Tue Dec 11 10:32:24 2018 (785 ms) | general | Need to send updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:32:24 2018 (786 ms) | general | Sending updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:32:24 2018 (786 ms) | general | 1/3 players were sent part of a 1-line PU: 111002, 
+L4 | Tue Dec 11 10:32:25 2018 (963 ms) | general | Got client message from 111002: DROP -1 1 -1
+L4 | Tue Dec 11 10:32:25 2018 (964 ms) | general | Need to send updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:32:25 2018 (965 ms) | general | Sending updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:32:25 2018 (965 ms) | general | 1/3 players were sent part of a 1-line PU: 111002, 
+L4 | Tue Dec 11 10:32:26 2018 (713 ms) | general | Got client message from 111002: REMV -2 1 -1
+L4 | Tue Dec 11 10:32:26 2018 (714 ms) | general | Need to send updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:32:26 2018 (714 ms) | general | Sending updates about these 1 players: 111002, 
+L4 | Tue Dec 11 10:32:26 2018 (714 ms) | general | 1/3 players were sent part of a 1-line PU: 111002, 
+L4 | Tue Dec 11 10:32:38 2018 (629 ms) | general | Failed to read sequence number from stats server response.
+L4 | Tue Dec 11 10:32:40 2018 (632 ms) | general | Failed to read sequence number from lineage server response.
+L4 | Tue Dec 11 10:32:43 2018 (450 ms) | general | Closing connection to player 111000 on error (cause: Player starved)
+L4 | Tue Dec 11 10:32:43 2018 (451 ms) | general | 2 remaining player(s) alive on server 
+L4 | Tue Dec 11 10:32:54 2018 (352 ms) | general | Quit received for unix
+L4 | Tue Dec 11 10:32:54 2018 (352 ms) | general | Cleaning up on quit...
+L4 | Tue Dec 11 10:32:54 2018 (358 ms) | general | Cleaning up map database on server shutdown.
+L4 | Tue Dec 11 10:32:54 2018 (687 ms) | general | ...1 useDummy/variable objects present that were changed back into their unused parent.
+L4 | Tue Dec 11 10:32:54 2018 (687 ms) | general | ...0 contained useDummy/variable objects present and changed back to usused parent.
+L4 | Tue Dec 11 10:32:54 2018 (687 ms) | general | Now running normal map clean...
+L4 | Tue Dec 11 10:32:54 2018 (687 ms) | general | 
+Cleaning map of objects that have been removed...
+L4 | Tue Dec 11 10:32:55 2018 (38 ms) | general | ...273787 map cells were set, and 0 needed to be cleared.
+L4 | Tue Dec 11 10:32:55 2018 (38 ms) | general | ...11081 contained objects present, and 0 needed to be cleared.
+L4 | Tue Dec 11 10:32:55 2018 (38 ms) | general | ...2347925 database records total (2 max hash bin depth).
+L4 | Tue Dec 11 10:32:55 2018 (74 ms) | general | Done.
