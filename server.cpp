@@ -4435,7 +4435,7 @@ int processLoggedInPlayer( Socket *inSock,
         // force eve
         parentChoices.deleteAll();
         forceParentChoices = true;
-		printf("Forcing new player to spawn as Eve\n", player->id);
+		printf("Forcing new player to spawn as Eve\n");
         }
     else if( inForceParentID > -1 ) {
         // force parent choice
